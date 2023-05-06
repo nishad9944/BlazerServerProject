@@ -1,0 +1,13 @@
+﻿@page "/"
+@inherits EmployeeListBase
+
+<h3><centre>Employee List</centre></h3>
+
+<div>
+    @foreach (var emp in employeeLists)
+    {
+        <div>
+            <h3>@emp.FirstName @emp.LastName</h3>
+        </div>
+    }
+</div>

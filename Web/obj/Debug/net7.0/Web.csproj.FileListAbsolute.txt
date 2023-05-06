@@ -1,0 +1,12 @@
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\bin\Debug\net7.0\Web.deps.json
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\bin\Debug\net7.0\Web.dll
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\bin\Debug\net7.0\Web.pdb
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\obj\Debug\net7.0\Web.csproj.AssemblyReference.cache
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\obj\Debug\net7.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\obj\Debug\net7.0\Web.AssemblyInfoInputs.cache
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\obj\Debug\net7.0\Web.AssemblyInfo.cs
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\obj\Debug\net7.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\obj\Debug\net7.0\Web.dll
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\obj\Debug\net7.0\refint\Web.dll
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\obj\Debug\net7.0\Web.pdb
+C:\Users\htadmin\Desktop\DotNet Practice\BlazerServer\Web\obj\Debug\net7.0\ref\Web.dll
